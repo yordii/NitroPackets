@@ -15,6 +15,6 @@ git checkout -B gh-pages
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/TonicHabbo/NitroPackets.git gh-pages
+git push -f https://github.com/yordii/NitroPackets.git gh-pages
 
 cd -
